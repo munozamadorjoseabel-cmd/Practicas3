@@ -1,0 +1,10 @@
+{
+  "nodos": 5,
+  "listaAdyacencia": [
+    {"nodo": 0, "conexiones": [1]},
+    {"nodo": 1, "conexiones": [0, 2]},
+    {"nodo": 2, "conexiones": [1, 3, 4]},
+    {"nodo": 3, "conexiones": [2, 4]},
+    {"nodo": 4, "conexiones": [3, 2]}
+  ]
+}
